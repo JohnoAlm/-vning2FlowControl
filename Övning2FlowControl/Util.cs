@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Övning2FlowControl
 {
-    /* Denna klass använder jag enbart för att kalla på dessa två metoder och därför använder jag static.
+    /* Denna klass använder jag enbart för att kalla på dessa metoder och därför använder jag static.
     Jag ska alltså inte instansera någonting utan använder denna klassen enbart för att göra programklassen
     mindre cluttered av kod. Det är så jag antar att static ska användas, alltså till hjälpar klasser som denna.*/
     internal static class Util
